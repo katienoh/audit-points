@@ -1,9 +1,11 @@
 # Introduction
 
 QueryPie는 보안의 사각지대를 투명하게 공개하고, 이를 함께 보완해나갈 수 있는 건강한 보안 문화를 조성하고자 합니다.  
-그 일환으로 그동안 수면 아래에 있었던 SaaS(Software as a Serviece) 솔루션의 보안 태세 관리와 DevSecOps 파이프라인에 활용되는 제품들의 보안 감사 포인트를 선도적으로 공개합니다.  
+그 일환으로 그동안 수면 아래에 있었던 SaaS(Software as a Serviece) 솔루션의 보안 태세 관리와 
+DevSecOps 파이프라인에 활용되는 제품들의 보안 감사 포인트를 선도적으로 공개합니다.  
 
-현재 [CIS Benchmarks](https://downloads.cisecurity.org/#/)에서는 AWS, EKS, GitHub 등 여러 제품에 대한 보안 구성 프레임워크를 공개하고 있지만, 많은 기업에서 사용되는 솔루션에 대한 프레임워크는 여전히 부족한 상황입니다.
+현재 [CIS Benchmarks](https://downloads.cisecurity.org/#/)에서는 AWS, EKS, GitHub 등 
+여러 제품에 대한 보안 구성 프레임워크를 공개하고 있지만, 많은 기업에서 사용되는 솔루션에 대한 프레임워크는 여전히 부족한 상황입니다.
 
 이에 QueryPie에서는 더 많은 제품의 감사 포인트를 공개하고, 쉽게 열람하고, 최신 정보를 추적할 수 있는 공유의 장을 이곳에 마련하였습니다.  
 앞으로 이곳에서 다양한 사이버 보안 지식이 자유롭게 공유되고 활발히 토론될 수 있는 공간이 되기를 바랍니다.  
